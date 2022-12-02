@@ -1,2 +1,2 @@
 #!/bin/bash
-alias __ls__ = '/bin/ls' \nwhy?
+ln -s /bin/ls __ls__ \nwhy?
