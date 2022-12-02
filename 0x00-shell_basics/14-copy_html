@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu *.html \nwhy?
+cp -nu *.html\nwhy?
