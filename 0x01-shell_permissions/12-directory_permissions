@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 751 mkdir my_dir \nwhy?
+mkdir 751 my_dir
