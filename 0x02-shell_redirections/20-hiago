@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | tr -d Cc \nwhy
+cat | tr -d Cc \nwhy?
